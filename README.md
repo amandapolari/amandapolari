@@ -1,5 +1,5 @@
 - 😊 Olá, sou Amanda Polari!
-- 📫 <a href="https://www.linkedin.com/in/amandapolari/">LinkedIn</a>
+- 📫 <a href="https://www.linkedin.com/in/amandapolari/" _blank>LinkedIn</a>
 - ❤️ Tenho interesse em Desenvolvimento Front-End
 - 🌱 Estou aprendendo:
 
