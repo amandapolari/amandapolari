@@ -1,6 +1,6 @@
-- 👋 Olá, sou @amandapolari
-- 📫 Como chegar até mim: https://www.linkedin.com/in/amandapolari/
-- 👀 Tenho interesse em Desenvolvimento Front-End
+- 😊 Olá, sou Amanda Polari!
+- 📫 <a href="https://www.linkedin.com/in/amandapolari/">LinkedIn</a>
+- ❤️ Tenho interesse em Desenvolvimento Front-End
 - 🌱 Estou aprendendo:
 
 <p align="center">
