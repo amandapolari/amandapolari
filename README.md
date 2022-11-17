@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<img align="right" alt="gif animado" height="180" style="border-radius:50px;" src="https://nadiaakter.com/wp-content/uploads/2022/09/601014116770475.6068beff4640a.gif">
+<img align="right" alt="gif animado" height="210" style="border-radius:50px;" src="https://nadiaakter.com/wp-content/uploads/2022/09/601014116770475.6068beff4640a.gif">
 
   ##
  <!--- 
