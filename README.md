@@ -1,9 +1,29 @@
+<div align="center">
+  <h3>Oi, meu nome é Amanda Polari! ☺️</h3>
+  <p>📫 Esse é o meu <a href="https://www.linkedin.com/in/amandapolari/" target="_blank">LinkedIn</a></p>
+  <p>❤️ Tenho interesse em Desenvolvimento <strong>Front-End</strong></p>
+  <p>🌱 Estou aprendendo:</p>
+</div>
 
 
-- 😊 Oii, eu sou a Amanda Polari! 
+<!---
+<p align="center"> 
+* 😊 Oii, eu sou a Amanda Polari! 
 - 📫 Esse é o meu <a href="https://www.linkedin.com/in/amandapolari/" target="_blank">LinkedIn</a>
 - ❤️ Tenho interesse em Desenvolvimento **Front-End**
 - 🌱 Estou aprendendo:
+</p>
+
+<ul align="center">
+  <li>Olá, meu nome é Amanda Polari</li>
+  
+  <a href="https://www.linkedin.com/in/amandapolari" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <li>Esse é o meu <a href="https://www.linkedin.com/in/amandapolari/" target="_blank">LinkedIn</a></li>
+  <li></li>
+  <li></li>
+</ul>
+
+--->
 
 
 <p align="center">
