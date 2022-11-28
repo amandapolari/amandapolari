@@ -8,7 +8,7 @@
 </div>
 --->
 
-- 😊 Olá, meu nome é Amanda Polari! 
+- Oi, meu nome é Amanda Polari! 🌼 
 - 📫 Esse é o meu <a href="https://www.linkedin.com/in/amandapolari/" target="_blank">LinkedIn</a>
 - ❤️ Tenho interesse em Desenvolvimento **Front-End**
 - 🌱 Estou aprendendo:
