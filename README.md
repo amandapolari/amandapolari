@@ -1,5 +1,6 @@
 <div align="center">
   <h3>Oi, meu nome é Amanda Polari! ☺️</h3>
+  <hr>
   <p>📫 Esse é o meu <a href="https://www.linkedin.com/in/amandapolari/" target="_blank">LinkedIn</a></p>
   <p>❤️ Tenho interesse em Desenvolvimento <strong>Front-End</strong></p>
   <p>🌱 Estou aprendendo:</p>
