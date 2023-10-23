@@ -1,24 +1,25 @@
-<!---
-<div align="center">
-  <h3>Oi, meu nome é Amanda Polari! 🌼</h3>
-  <hr>
-  <p>📫 Esse é o meu <a href="https://www.linkedin.com/in/amandapolari/" target="_blank">LinkedIn</a></p>
-  <p>❤️ Tenho interesse em Desenvolvimento <strong>Front-End</strong></p>
-  <p>🌱 Estou aprendendo:</p>
-</div>
---->
+<h1 align="center">Amanda Polari - Dev Fron-End</h1>
 
-- Oi, meu nome é **Amanda Polari**! 🌼 
-- 📫 Esse é o meu <a href="https://www.linkedin.com/in/amandapolari/" target="_blank">LinkedIn</a>
-- ❤️ Tenho interesse em Desenvolvimento **Front-End**
-- 🌱 Estou aprendendo:
+<h2>Sobre Mim</h2>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,git,github,figma,jest,firebase,nextjs,styledcomponents,postman,mysql,sqlite" style="height: 30px;"/>
-  </a>
-</p>
+Oi, meu nome é Amanda, tenho 28 anos e estou cursando o bootcamp da Labenu de desenvolvimento fullstack, caso queira entrar em contato me chame no <a href="https://www.linkedin.com/in/amandapolari/" target="_blank">LinkedIn</a> !
 
+
+Em **FrontEnd** domino as seguintes tecnologias e ferramentas:
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,figma,jest,firebase,styledcomponents,postman" style="height: 30px;"/>
+</a>
+
+Em **Backend** estou aprendendo:
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=typescript,nodejs,mysql,sqlite,express,knex" style="height: 30px;"/>
+</a>
+
+Fique a vontade no meu perfil, abaixo vai encontrar um **Guia de Repositórios** onde organizei todos os meus projetos e repositórios de prática do meu curso atual! 
+
+Até breve! 😃
 <!---
 <img align="right" alt="gif animado" height="210" style="border-radius:50px;" src="https://nadiaakter.com/wp-content/uploads/2022/09/601014116770475.6068beff4640a.gif">
 --->
