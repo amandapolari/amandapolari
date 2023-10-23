@@ -17,7 +17,7 @@ Em **Backend** estou aprendendo:
   <img src="https://skillicons.dev/icons?i=typescript,nodejs,mysql,sqlite,express,knex" style="height: 30px;"/>
 </a>
 
-Fique a vontade no meu perfil, abaixo vai encontrar um **Guia de Repositórios** onde organizei todos os meus projetos e repositórios de prática do meu curso atual! 
+Fique a vontade no meu perfil, abaixo vai encontrar um [**Guia de Repositórios**](https://github.com/amandapolari/guia-de-repositorios) onde organizei todos os meus projetos e repositórios de prática do meu curso atual! 
 
 Até breve! 😃
 
