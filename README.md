@@ -1,4 +1,4 @@
-<h1 align="center">Amanda Polari - Dev Fron-End</h1>
+<h1 align="center">Amanda Polari - Frontend Developer</h1>
 
 <h2>Sobre Mim</h2>
 
