@@ -32,7 +32,7 @@ Até breve! 😃
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/marcelo-maia-7584b821b/" />
   </a>
 
-  <a href="mailto:amandaoliveirapolari@gmail.com" alt="gmail">
+  <a href="amandaoliveirapolari@gmail.com" alt="gmail">
     <img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
   </a>
 </p>
