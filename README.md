@@ -26,17 +26,15 @@ Fique a vontade no meu perfil, abaixo vai encontrar um [**Guia de Repositórios*
 
 Até breve! 😃
 
-<p align="left">
-
+<p align="center">
   <a href="https://www.linkedin.com/in/amandapolari/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/marcelo-maia-7584b821b/" />
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/marcelo-maia-7584b821b/" />
   </a>
 
-  <a href="amandaoliveirapolari@gmail.com" alt="gmail">
-    <img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
+  <a href="mailto:amandaoliveirapolari@gmail.com" alt="gmail">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
   </a>
 </p>
-
 <!---
 <div align="center"> 
 [![Snake animation](https://github.com/amandapolari/amandapolari/blob/output/github-contribution-grid-snake.svg)](url)
