@@ -3,7 +3,7 @@
 <h3>Frontend Developer</h3>
 </div>
 
-<div align="center" style="height: 10px;">
+<div align="center" style="height: 6px;">
   <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="300" height="200">
 </div>
 
