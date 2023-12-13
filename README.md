@@ -1,8 +1,7 @@
 <h1 align="center">Amanda Polari - Frontend Developer</h1>
 
-<div align ="center" style="height: 10px;">
-  
-![](https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif)
+<div align="center" style="height: 10px;">
+  <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="300" height="200">
 </div>
 
 
