@@ -38,10 +38,10 @@ Testes em Backend <br>
 Testes em Frontend <br>
 Testes de integração <br>
 
----
+<br>
 
-Fique a vontade no meu perfil, qualquer dúvida entre em contato comigo.
-Até breve! 😃
+
+✨ Até breve! 😃
 
 <!---
 Fique a vontade no meu perfil, abaixo vai encontrar um [**Guia de Repositórios**](https://github.com/amandapolari/guia-de-repositorios) onde organizei todos os meus projetos e repositórios de prática do meu curso atual! 
