@@ -1,5 +1,5 @@
 <div align="center">
-<p style="font-size: 50px;"><strong>Amanda Polari</strong></p>
+<h1><strong>Amanda Polari</strong></h1>
 <p style="font-size: 40px;">Frontend Developer</p>
 </div>
 
