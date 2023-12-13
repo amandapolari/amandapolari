@@ -1,4 +1,7 @@
-<h1 align="center">Amanda Polari - Frontend Developer</h1>
+<div align="center">
+<p style="font-size: 30px;color: #ffafcc;"><strong>Amanda Polari</strong></p>
+<p style="font-size: 20px;">Frontend Developer</p>
+</div>
 
 <div align="center" style="height: 10px;">
   <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="300" height="200">
