@@ -37,7 +37,6 @@ Atualmente estou **aprendendo**:
 
 Testes em Backend <br>
 Testes em Frontend <br>
-Testes de integração <br>
 
 <br>
 
