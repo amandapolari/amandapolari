@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Amanda Polari</h1>
-<p style="font-size: 40px;">Frontend Developer</p>
+<h3>Frontend Developer</h3>
 </div>
 
 <div align="center" style="height: 10px;">
