@@ -1,8 +1,14 @@
 <h1 align="center">Amanda Polari - Frontend Developer</h1>
 
+<div align ="center" style="height: 10px;">
+  
+![](https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif)
+</div>
+
+
 <h2>Sobre Mim</h2>
 
-Oi, meu nome é Amanda, tenho 28 anos e estou cursando o bootcamp da Labenu de desenvolvimento fullstack, caso queira entrar em contato me chame no <a href="https://www.linkedin.com/in/amandapolari/" target="_blank">LinkedIn</a> !
+Oi, meu nome é Amanda, tenho 28 anos e estou finalizando o bootcamp da Labenu de desenvolvimento fullstack, caso queira entrar em contato me chame no <a href="https://www.linkedin.com/in/amandapolari/" target="_blank">LinkedIn</a> !
 
 
 Em **FrontEnd** domino as seguintes tecnologias e ferramentas:
