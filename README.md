@@ -19,6 +19,7 @@ Oi, meu nome é Amanda, tenho 28 anos e estou finalizando o bootcamp da Labenu d
   </a>
 </p>
 
+<h2>Habilidades</h2>
 
 Em **FrontEnd** domino as seguintes tecnologias e ferramentas:
 
