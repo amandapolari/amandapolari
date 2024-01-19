@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Amanda Polari</h1>
-<h3>• Full-stack developer •</h3>
+<h3>• Full-stack Software Developer •</h3>
 </div>
 
 <div align="center" style="height: 6px;">
