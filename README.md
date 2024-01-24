@@ -24,7 +24,7 @@ Oi, meu nome é Amanda, tenho 28 anos e estou finalizando o bootcamp da Labenu d
 Em **FrontEnd** domino as seguintes tecnologias e ferramentas:
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,figma,jest,firebase,styledcomponents,postman" style="height: 30px;"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,figma,jest,firebase,postman,styledcomponents,mui" style="height: 30px;"/>
 </a>
 
 Em **Backend**:
