@@ -33,14 +33,6 @@ Em **Backend**:
   <img src="https://skillicons.dev/icons?i=typescript,nodejs,mysql,sqlite,express,knex" style="height: 30px;"/>
 </a>
 
-Atualmente estou **aprendendo**:
-
-Testes em Backend <br>
-Testes em Frontend <br>
-
-<br>
-
-
 ✨ Até breve! 😃
 
 <!---
