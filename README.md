@@ -11,7 +11,7 @@
 
 <h2>Sobre Mim</h2>
 
-Oi, meu nome é Amanda, tenho 28 anos e acabei de finalizar o bootcamp da Labenu de desenvolvimento web fullstack, caso queira entrar em contato me chame no <a href="https://www.linkedin.com/in/amandapolari/" target="_blank">LinkedIn</a> !
+Oi, meu nome é Amanda, tenho 28 anos e concluí recentemente o bootcamp da Labenu de desenvolvimento web fullstack, caso queira entrar em contato me chame no <a href="https://www.linkedin.com/in/amandapolari/" target="_blank">LinkedIn</a> !
 
 <p>
   <a href="https://www.linkedin.com/in/amandapolari/" alt="Linkedin">
