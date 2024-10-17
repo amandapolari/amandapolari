@@ -5,10 +5,12 @@
 
 <div align="center">
 
-Olá! Meu nome é Amanda, tenho 29 anos e estou cursando bacharelado em Ciência da Computação. <br>
-Sou formada como Desenvolvedora Full-stack pela Labenu e obtive uma base sólida em programação <br> ao participar do bootcamp da Laboratória. 
 
-Tenho experiência em projetos práticos com:<br> HTML, CSS, Javascript, React, Figma, Styled-Components, Chakra UI, Material UI, NodeJS,<br> Typescript, Express, Knex, SQL, Jest, Teste Unitários, Api Restful, Python, FastAPI
+Olá! Meu nome é Amanda, tenho 29 anos e atualmente trabalho como Desenvolvedora Frontend na Suzano. <br>
+Estou cursando bacharelado em Ciência da Computação e sou formada como Desenvolvedora Full-stack pela Labenu, <br> onde adquiri experiência prática em projetos individuais e colaborativos. Também obtive uma base sólida em <br> programação ao participar do bootcamp da Laboratória.
+
+Tenho experiência em projetos práticos com:<br> HTML, CSS, Javascript, React, Figma, Styled-Components, Chakra UI, Material UI, NodeJS,<br> Typescript, Express, Knex, SQL, Jest, Testes Unitários, Api Restful, Python, FastAPI
+
 
 <br>
 
